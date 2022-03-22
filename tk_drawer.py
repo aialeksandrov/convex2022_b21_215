@@ -3,7 +3,7 @@ from tkinter import *
 # Размер окна
 SIZE = 600
 # Коэффициент гомотетии
-SCALE = 50
+SCALE = 40
 
 
 def x(p):
